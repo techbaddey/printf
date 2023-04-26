@@ -1,3 +1,2 @@
 0x11. C - printf
-Team Task
-Group Project
+Group Project By Amir Osama and Oyinkansola Shoroye
